@@ -5,7 +5,7 @@
 This project combines **machine learning** and **biomarker design** to classify the stages of liver cancer. The objective is to enhance accuracy in stage classification by analyzing gene expression and methylation data.
 
 ## Team Members
-- **Zeyad Ashraf** (@Zashraf03)  **Malak Abdelfattah** (@Malak)  **Alaa Hewela** (@Alaa253)  **Oladosu Olajumoke** (@Jumblosu)
+- **Zeyad Ashraf** (@Zashraf03) , **Malak Abdelfattah** (@Malak) , **Alaa Hewela** (@Alaa253) , **Oladosu Olajumoke** (@Jumblosu)
 
 ## Background
 
@@ -37,9 +37,11 @@ This project aims to fill that gap by:
 
 ## Project Files
 
-- [PDF of the Presentation](link_to_pdf)  
+- [PDF of the Presentation]( https://github.com/MalakSoula/HackBio_internship_stage_5_task/blob/main/classification_of_clinical_stage_liver_cancer.pdf)
+  
   *Click to view the presentation slides.*
 
-- [Video of the Presentation](link_to_video)  
+- [Video of the Presentation](https://github.com/MalakSoula/HackBio_internship_stage_5_task/blob/main/classification_of_clinical_stage_liver_cancer%5B1%5D.mp4.bz2)
+    
   *Click to watch the recorded presentation.*
 
